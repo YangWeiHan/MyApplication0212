@@ -1,0 +1,1 @@
+include ':app', ':day1', ':annotaition_demo', ':fresco_demo', ':fresco_0214', ':greendao_demo', ':fresco_work', ':retrofit', ':firstweekwork'
